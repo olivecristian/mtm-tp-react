@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nombre": "Lic. Ana Pérez",
+    "email": "ana@example.com",
+    "puesto": "Psicóloga",
+    "foto": "/images/ana.png",
+    "orientacion": "Terapia Cognitivo Conductual",
+    "especialidades": ["Ansiedad", "Vínculos", "Autoestima"],
+    "modalidades": ["Videollamada", "Asincrónica"],
+    "idiomas": ["Español"],
+    "descripcionCorta": "Trabajo con adultos en procesos vinculados a ansiedad, relaciones y autoestima."
+  },
+  {
+    "id": 2,
+    "nombre": "Lic. Martín López",
+    "email": "martin@example.com",
+    "puesto": "Psicólogo",
+    "foto": "/images/martin.png",
+    "orientacion": "Psicoanálisis",
+    "especialidades": ["Vínculos", "Duelo", "Angustia"],
+    "modalidades": ["Videollamada"],
+    "idiomas": ["Español"],
+    "descripcionCorta": "Acompaño procesos de elaboración emocional, vínculos y momentos de crisis."
+  },
+  {
+    "id": 3,
+    "nombre": "Lic. Laura Gómez",
+    "email": "laura@example.com",
+    "puesto": "Psicóloga",
+    "foto": "/images/laura.png",
+    "orientacion": "Integrativa",
+    "especialidades": ["Neurodivergencias", "Ansiedad", "Autoconocimiento"],
+    "modalidades": ["Videollamada", "Asincrónica"],
+    "idiomas": ["Español", "Inglés"],
+    "descripcionCorta": "Trabajo desde una perspectiva integrativa y centrada en la singularidad de cada persona."
+  }
+]

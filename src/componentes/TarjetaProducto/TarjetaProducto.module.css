@@ -1,0 +1,21 @@
+.tarjeta {
+  background-color: #fffaf2;
+  border: 1px solid #d8cdbd;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px;
+  max-width: 320px;
+}
+
+.imagen {
+  border-radius: 8px;
+  margin-bottom: 12px;
+}
+
+.nombre {
+  margin-bottom: 8px;
+}
+
+.precio {
+  font-weight: bold;
+}

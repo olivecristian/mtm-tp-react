@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sesión asincrónica",
+    "precio": 25000,
+    "stock": 10,
+    "imagen": "/images/sesion-asincronica.png",
+    "tipo": "servicio",
+    "descripcion": "Un espacio terapéutico flexible para expresarte mediante audio o texto y recibir una devolución profesional.",
+    "requiereTerapeuta": true
+  },
+  {
+    "id": 2,
+    "nombre": "Pack de 4 sesiones asincrónicas",
+    "precio": 80000,
+    "stock": 10,
+    "imagen": "/images/pack-sesiones.png",
+    "tipo": "servicio",
+    "descripcion": "Pack de cuatro sesiones asincrónicas para sostener un proceso con mayor continuidad.",
+    "requiereTerapeuta": true
+  },
+  {
+    "id": 3,
+    "nombre": "Guía de regulación emocional",
+    "precio": 12000,
+    "stock": 20,
+    "imagen": "/images/guia-regulacion.png",
+    "tipo": "recurso",
+    "descripcion": "Guía práctica con ejercicios para reconocer, comprender y regular emociones intensas.",
+    "requiereTerapeuta": false
+  },
+  {
+    "id": 4,
+    "nombre": "Taller online sobre ansiedad",
+    "precio": 18000,
+    "stock": 15,
+    "imagen": "/images/taller-ansiedad.png",
+    "tipo": "taller",
+    "descripcion": "Taller introductorio con herramientas para comprender y trabajar patrones asociados a la ansiedad.",
+    "requiereTerapeuta": false
+  }
+]

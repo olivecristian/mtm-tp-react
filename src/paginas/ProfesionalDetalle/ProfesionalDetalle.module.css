@@ -1,0 +1,13 @@
+.detalle {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 24px;
+}
+
+.imagen {
+  width: 260px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 12px;
+  margin-bottom: 24px;
+}

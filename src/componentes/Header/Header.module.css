@@ -1,0 +1,23 @@
+.header {
+  background-color: #6f8f7a;
+  color: white;
+  padding: 24px;
+  text-align: center;
+}
+
+.subtitulo {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.nav a {
+  color: white;
+  font-weight: bold;
+}

@@ -1,0 +1,45 @@
+.tarjeta {
+  background-color: #fffaf2;
+  border: 1px solid #d8cdbd;
+  border-radius: 12px;
+  padding: 20px;
+  max-width: 320px;
+}
+
+.foto {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.nombre {
+  margin-bottom: 8px;
+}
+
+.orientacion {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.especialidades {
+  margin-bottom: 10px;
+}
+
+.modalidades {
+  margin-bottom: 12px;
+  font-size: 0.95rem;
+}
+
+.descripcion {
+  margin-bottom: 16px;
+  line-height: 1.4;
+}
+
+.boton {
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
